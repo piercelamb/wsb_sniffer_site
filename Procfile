@@ -1,1 +1,1 @@
-web: python home.py
+web: flask run
