@@ -11,7 +11,7 @@ def index():
     # return render_template("home.html", named_entities=named_entities)
     return render_template("home.html")
 
-if __name__ == "__main__":
-    app.config['TEMPLATES_AUTO_RELOAD'] = True
-    app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
-    app.run(debug=True)
+# if __name__ == "__main__":
+#     app.config['TEMPLATES_AUTO_RELOAD'] = True
+#     app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
+#     app.run(debug=True)
