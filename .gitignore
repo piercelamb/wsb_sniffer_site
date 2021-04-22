@@ -1,0 +1,10 @@
+creds.txt
+
+.idea
+
+.DS_Store
+flask/__pycache__/
+wsb_kaggle.*
+wsb_kaggle_jwilling.db
+wsb_kaggle_plamb.db
+__pycache__/
