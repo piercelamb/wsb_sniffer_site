@@ -1,5 +1,5 @@
 from flask import Flask, render_template
-from utility.database import get_cursor, get_named_entities
+#from utility.database import get_cursor, get_named_entities
 
 app = Flask(__name__, static_url_path='/static')
 
